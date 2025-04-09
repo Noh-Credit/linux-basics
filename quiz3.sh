@@ -1,3 +1,3 @@
 #!/bin/sh
 
-touch a.txt
+touch myFile.txt
